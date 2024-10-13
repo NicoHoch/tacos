@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "365212580774",
+    "project_id": "tacos-4c205",
+    "storage_bucket": "tacos-4c205.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365212580774:android:bf70eb491286980c976d67",
+        "android_client_info": {
+          "package_name": "taco.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIqrbb9FpZzMmluwTb9-6RfKR48nGmGSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365212580774:android:008cb61c33e2bb15976d67",
+        "android_client_info": {
+          "package_name": "tacos.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIqrbb9FpZzMmluwTb9-6RfKR48nGmGSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
